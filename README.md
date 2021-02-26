@@ -1,4 +1,4 @@
-# pizza-multithreading
+# Pizza Orders Systems
 
 This is a simple app developed in lubuntu operation system, using pthread library and mutexes. It was an assignment in "operation systems" course to help us understand how a system uses multithreading to complete different tasks and processes. 
 
