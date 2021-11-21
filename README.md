@@ -9,4 +9,5 @@ Pizza2 is an updated pizza1 app version where the system supports delivery as an
 ## Colaborator
 
 [@Fotios Panos](https://github.com/fotispanos)
+
 [@Giannis Profis](https://github.com/GiannisProf)
